@@ -13,15 +13,4 @@
 - currently building [Criptify](https://github.com/rupak-20/Criptify) and tons of other cool projects
 - love working on networking and cypher related applications
 - learning image processing, computer vision and artificial intelligence nowadays
-- reach out me: [Let's Connect here!](https://www.linkedin.com/in/ayan-sadhukhan-413471167/)
-
-### ⚡ Github Stats
- <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rupak_20&theme=merko">
-</p>
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=rupak_20&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupak_20&theme=radical&layout=compact&hide=Jupyter%20Notebook&langs_count=8"  display=block height=190 align="center" alt="2"></td>
-   </tr>
-</table>
+- reach out me: [Let's Connect here!](https://www.linkedin.com/in/rupak-swami-071468190/)
