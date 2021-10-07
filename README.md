@@ -15,10 +15,10 @@
 - learning image processing, computer vision and artificial intelligence nowadays
 - reach out me: [Let's Connect here!](https://www.linkedin.com/in/rupak-swami-071468190/)
 
-{\\__/}\n
-( ᛫ .᛫)\n
-/ >💻  You want it?\n
-\n
-{\\__/}\n
-( ᛫ -᛫)\n
-💻< \  Too bad, I'm debugging my code.
+{\\\__/}  
+( ᛫ .᛫)  
+/ >💻  You want it?  
+  
+{\\\__/}  
+( ᛫ -᛫)  
+💻< \  Too bad, I'm debugging my code.  
