@@ -17,8 +17,8 @@
 
 {\\\__/}  
 ( ᛫ . ᛫)  
-/ >💻   You want it?  
+ />💻  You want it?  
   
 {\\\__/}  
 ( ᛫ - ᛫)  
-💻< \   Too bad, I'm debugging my code.  
+💻 <\   Too bad, I'm debugging my code.  
