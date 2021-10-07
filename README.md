@@ -16,9 +16,9 @@
 - reach out me: [Let's Connect here!](https://www.linkedin.com/in/rupak-swami-071468190/)
 
 {\\\__/}  
-( ᛫ . ᛫ )  
+( ᛫ . ᛫)  
 / >💻   You want it?  
   
 {\\\__/}  
-( ᛫ - ᛫ )  
+( ᛫ - ᛫)  
 💻< \   Too bad, I'm debugging my code.  
