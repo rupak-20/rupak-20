@@ -9,8 +9,7 @@
 
 ### I am an undergrad student at VITcc '23
 
-- skilled in C/C++, Python, IoT and Web Development
+- skilled in C/C++, Python and Software Development
 - currently building [Criptify](https://github.com/rupak-20/Criptify), [Virtual Chess](https://github.com/rupak-20/Virtual-Chess) and tons of other cool projects
-- love working on networking and cypher related applications
 - learning image processing, computer vision and artificial intelligence nowadays
 - reach out me: [Let's Connect here!](https://www.linkedin.com/in/rupak-swami-071468190/)
